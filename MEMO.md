@@ -7,7 +7,7 @@
 
 端末：imac
 
-localpath：/Users/kashiwa/Desktop/homework/210505_tdd-vuejs-book
+localpath：/Desktop/homework/210505_tdd-vuejs-book
 
 git ：[hoshimado/tdd-vuejs-book](https://github.com/hoshimado/tdd-vuejs-book/)
 forkした
