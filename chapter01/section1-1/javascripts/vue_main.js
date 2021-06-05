@@ -78,7 +78,7 @@ window.onload = function () {
                 // ToDo: クリックでのトグル動作時の扱いを『暫定』としたいので、このような実装にする。
             },
             clickDeleteButton : function (index) {
-                this.todo_list.splice(index, 1);
+                this.todo_list.splice(index, 2);
             }
         }
     });
